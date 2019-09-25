@@ -1,7 +1,7 @@
 package org.merlang.compilation.syntax;
 
 import org.merlang.compilation.SourceRange;
-import org.merlang.compilation.tree.Node;
+import org.merlang.compilation.syntax.tree.Node;
 
 /**
  * Last element in the chain of SyntaxRules, which reports invalid syntax.

@@ -1,6 +1,6 @@
 package org.merlang.compilation.syntax;
 
-import org.merlang.compilation.tree.Node;
+import org.merlang.compilation.syntax.tree.Node;
 
 public interface SyntaxRule<T extends Node> {
 
